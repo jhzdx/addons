@@ -1,0 +1,7 @@
+{
+  "name": "My Add-ons Repository",
+  "url": "https://github.com/jhzdx/addons",
+  "maintainer": "Your Name",
+  "description": "A collection of my Home Assistant add-ons",
+  "add-ons": ["ssh", "samba"]
+}
